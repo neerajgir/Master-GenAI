@@ -1,0 +1,17 @@
+{
+  "name": "build-ai-agent",
+  "version": "1.0.0",
+  "description": "build ai agent",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "neeraj",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^2.23.0",
+    "readline-sync": "^1.4.10"
+  }
+}
