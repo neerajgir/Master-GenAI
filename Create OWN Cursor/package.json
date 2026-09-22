@@ -1,0 +1,21 @@
+{
+  "name": "create-own-cursor",
+  "version": "1.0.0",
+  "description": "own cursor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Neeraj",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^2.24.0",
+    "child_process": "^1.0.2",
+    "dotenv": "^18.0.2",
+    "os": "^0.1.2",
+    "readline-sync": "^1.4.10",
+    "util": "^0.12.5"
+  }
+}
